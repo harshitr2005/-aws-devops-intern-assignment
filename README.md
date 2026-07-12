@@ -71,7 +71,7 @@ Also, small thing: tried running `chmod` in regular Windows Command Prompt out o
 
 ## Time taken
 
-Around 3-4 hours total, most of which went into debugging the IPv6 issue rather than the actual setup.
+Around 2-3 hours total, most of which went into debugging the IPv6 issue rather than the actual setup.
 
 ## What's in this repo
 
